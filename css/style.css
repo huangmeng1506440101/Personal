@@ -885,3 +885,6 @@ a#scrollUp:hover{background:  #2154CF;color: #fff}
 	font-size: 62px;
 	font-weight: 700;
 }
+.audio {
+	display:none;
+}
